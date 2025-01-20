@@ -7,6 +7,7 @@
 
 My name is Karol Peña. I am a physics engineering student passionate about applying physics principles to real-world engineering challenges. My main interest is the area of ​​robotics and energies. I like to combine theoretical knowledge with practical applications to create innovative solutions.
 
+HOLA
 
 ### Skills & Technologies
 - **Programming:** Python, MATLAB, C++, LaTeX, Fortran
